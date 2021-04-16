@@ -15,5 +15,5 @@ jobs:
       - uses: tgymnich/fork-sync@v1.4
         with:
           owner: jiangqizheng
-          base: master
-          head: master
+          base: main
+          head: main
