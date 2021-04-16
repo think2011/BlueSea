@@ -16,3 +16,5 @@ jobs:
           owner: jiangqizheng
           base: main
           head: main
+          auto_approve: true
+          token: ${{ secrets.PERSONAL_TOKEN }}
